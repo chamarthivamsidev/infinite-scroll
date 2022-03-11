@@ -1,3 +1,7 @@
+# Infinite Scroll
+
+<img src="./images/infinite_scroll.gif"/>
+
 <!-- For Window -->
 
 1. window.scrollHeight: Indicates the height of the entire document
